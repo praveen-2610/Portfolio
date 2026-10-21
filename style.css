@@ -936,7 +936,7 @@ textarea {
         width: 250px !important;
         height: 250px !important;
         margin: 0 auto;
-        max-width: 90vw !important;
+        max-width: 50vw !important;
         object-fit: cover;
         display: block;
     }
