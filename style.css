@@ -922,24 +922,21 @@ textarea {
     padding-top: 130px;
     }
 
-   .hero-card {
-    order: 1;
-    width: 100%;
-    max-width: 350px;
-    margin: 0 auto 25px;
-    display: flex;
-    justify-content: center;
-    align-self: center;
+    .hero-card {
+        width: 100% !important;
+        max-width: 100% !important;
+        display: flex;
+        justify-content: center;
+        align-items: center;
     }
-   .hero-card img {
-    width: 500px;
-    height: 500px;
-    object-fit: cover;
-    display: block;
-    margin: 0 auto;
-    border-radius: 50%;
-}
 
+    .hero-card img {
+        width: 300px !important;
+        height: 300px !important;
+        max-width: none !important;
+        object-fit: cover;
+        display: block;
+    }
     .hero-content {
     order: 2;
     width: 100%;
