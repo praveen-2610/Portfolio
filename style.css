@@ -925,6 +925,7 @@ textarea {
     .hero-card {
         width: 100% !important;
         max-width: 100% !important;
+        margin: 0 auto 25px;
         display: flex;
         justify-content: center;
         align-items: center;
@@ -933,6 +934,7 @@ textarea {
     .hero-card img {
         width: 600px !important;
         height: 600px !important;
+        margin: 0 auto;
         max-width: none !important;
         object-fit: cover;
         display: block;
