@@ -933,8 +933,8 @@ textarea {
     }
 
     .hero-card img {
-        width: 190px !important;
-        height: 190px !important;
+        width: 210px !important;
+        height: 210px !important;
         margin: 0 auto;
         max-width: 50vw !important;
         object-fit: cover;
