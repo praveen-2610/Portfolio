@@ -929,6 +929,7 @@ textarea {
         display: flex;
         justify-content: center;
         align-items: center;
+        align-self:center !important;
     }
 
     .hero-card img {
